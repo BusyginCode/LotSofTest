@@ -1,5 +1,4 @@
-# LotSofTest
-For starting write:
-cd LotSofTest
-npm install
+For starting write:\n
+cd LotSofTest\n
+npm install\n
 node app.js
