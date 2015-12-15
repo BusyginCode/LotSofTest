@@ -1,0 +1,147 @@
+ .invalid {
+ 	border:1px solid red;
+ }
+ .valid {
+ 	border:1px solid green;
+ }
+ input:focus {
+ 	outline:none;
+ }
+ .show {
+ 	display:inline;
+ }
+ .hint {
+ 	display:none;
+ }
+ input {
+  width: 46.7%;
+  height: 3vw;
+  border-radius: 0.5vw;
+ }
+ .filtr_but {
+  width: 30%;
+  height: 2vw;
+  background: white;
+  border: 1px solid gray;
+  text-align: center;
+  color: gray;
+  padding: 1%;
+  vertical-align: middle;
+  display: table-cell;
+  border-radius: 0.5vw;
+  cursor:pointer;
+ }
+ .filtr_but:hover {
+  text-decoration: none;
+  color:black;
+ }
+ #filtr_box {
+  width:19%;
+  height:30%;
+  display:none;
+ }
+ #input_box {
+  width: 15vw;
+  float:left;
+  display:none;
+ }
+ .container {
+  width:80%;
+  margin: 5vw auto;
+ }
+ .f_b_div {
+  width:100%;
+ }
+ label[for='min'] {
+  clear:both;
+ }
+ .secLab {
+  margin-top:1vw;
+ }
+ #s_input {
+  width:100%;
+ }
+ .content_normal{
+  width:80%;
+  margin:0 auto;
+ }
+ hr {
+  clear:both;
+ }
+ .content_f {
+   width: 75%;
+   float: left;
+   margin-left: 3vw;
+ }
+ input[placeholder] {
+   padding-left:0.5vw;
+ }
+ .element {
+   width:17vw;
+   box-shadow: 0 0 0 1px #E1E5E9;
+   float:left;
+   margin-left: 2vw;
+   margin-top: 1vw;
+ }
+ .elem_name {
+   width:16vw;
+   text-align:center;
+ }
+ .elem_img {
+   max-width:15vw;
+   max-height: 10vw;
+   margin-bottom:1vw;
+ }
+ .elem_price {
+   width:16vw;
+   text-align:center;
+ }
+ .img_div {
+   text-align:center;
+ }
+ .element a {
+   text-decoration:none;
+   color:black;
+ }
+ .element a::hover {
+   text-decoration:none;
+   color:black;
+ }
+ .el_count {
+   text-align: center;
+ }
+ .el_discont {
+   text-align: center;
+ } 
+ .deal_input {
+  width:2vw;
+ }
+ .show_cont {
+  width:100%;
+  text-align: center;
+  clear:both;
+  padding-top:3vw;
+  padding-bottom:3vw;
+ }
+ #show_but {
+  padding:1vw;
+  border-radius:0.5vw;
+  box-shadow: 0 0 0 1px #E1E5E9;
+  text-decoration:none;
+  cursor:pointer;
+  color:black;
+  
+ }
+ #show_but:hover {
+  text-decoration:none;
+ }
+ input[type='checkbox'] {
+  width:2vw;
+ }
+ #hint {
+  display:none;
+  text-align:center;
+ }
+ .marginButton {
+  margin-left:20vw;
+ }
